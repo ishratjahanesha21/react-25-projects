@@ -3,6 +3,7 @@ import './App.css'
 import Accrodiand from './Projects/Project-1/Accrodiand'
 import Starreting from './Projects/Project-2/Starreting'
 import WordsCounter from './Projects/Project-3/WordsCounter'
+import Search from './Projects/Project-5/Search'
 import Rendomcolour from './Random-colour-generator/Rendomcolour'
 
 function App() {
@@ -17,6 +18,8 @@ function App() {
     <Starreting/>
     Project-3 
     <WordsCounter/>
+    Project-5
+    <Search/>
     <Rendomcolour/>
     </>
   )
